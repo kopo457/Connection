@@ -1,37 +1,18 @@
 html, body{
     margin: 0px;
 }
-body{
-    color: #d9d9d9;
-    background-color: #1e1f21;
-}
 header{
-    height: 160px;
-    background-color: #292a2d;
-    border-color: #3a3b3d;
-}
-header div{
-    width: 1130px;
-    margin: 0 auto;
-}
-section{
-    width: 1130px;
-    margin: 0 auto;
-    height: 2000px;
-}
-footer{
-    height: 337px;
-    background-color: #292a2d;
-    border-color: #3a3b3d;
-}
-footer div{
-    width: 1130px;
-    margin: 0 auto;
+    height: 100px;
+    background-color: cornflowerblue;
 }
 a{
-    color: inherit;
     text-decoration: none;
 }
 #homepage{
-    text-align: center;
+    display: block;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px white;
+    color: pink;
 }
