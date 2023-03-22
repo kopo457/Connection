@@ -16,3 +16,13 @@ a{
     text-shadow: 1px 1px 1px white;
     color: pink;
 }
+main{
+    width: 1120px;
+    margin: auto;
+}
+#link{
+    display: none;
+}
+#youtubeNone{
+    display: none;
+}
